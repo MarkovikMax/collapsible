@@ -1,6 +1,6 @@
 <style>
 .collapsible {
-  background-color: #000;
+  background-color: #777;
   color: white;
   cursor: pointer;
   padding: 18px;
@@ -20,8 +20,5 @@
   display: none;
   overflow: hidden;
   background-color: #f1f1f1;
-}
-.body {
-    background-color: #000;
 }
 </style>
